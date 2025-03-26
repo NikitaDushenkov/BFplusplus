@@ -13,8 +13,9 @@ importing a module is as simple as {"module_name.bfm"} wich assigns the imported
 modules can be called using {module_identifier}
 example:
 ```
-+{"multiply5.bfm"},{1}.
++{multiply5.bfm}>+++++{1}.
 ```
+will return 25 to cell
 ### Cell clear
 ```
 !
